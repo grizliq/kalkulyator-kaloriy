@@ -2,7 +2,7 @@
    Формула Миффлина — Сан Жеора. Нижняя граница нормы — 1200 ккал для женщин и 1500 для мужчин. */
 (function () {
   "use strict";
-  var REF = "https://kegelfood.ru/";
+  var REF = "https://kegelfood.ru/r/2j65tab134";
   var KEY = "kk-calc";
   var GOAL = { lose: -0.15, keep: 0, gain: 0.10 };
   var PROT = { lose: 1.6, keep: 1.4, gain: 1.6 };
