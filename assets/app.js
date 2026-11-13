@@ -33,7 +33,8 @@
   }
 
   function cta() {
-    return '<a class="btn res__cta" href="' + REF + '" target="_blank" rel="sponsored noopener" data-ref>Считать съеденное по фото — Kegel Food</a>';
+    return '<a class="btn btn--go res__cta" href="' + REF + '" target="_blank" rel="sponsored noopener" data-ref>Считать съеденное по фото за 1 ₽' +
+      '<i><svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg></i></a>';
   }
 
   function render(box, mode, v) {
